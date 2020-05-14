@@ -1,2 +1,9 @@
 [Thu, 14 May 2020 17:53:07 GMT] [info] [<0.000.0>] ::ffff:127.0.0.1 - - GET / 200
 [Thu, 14 May 2020 17:53:07 GMT] [info] [<0.000.0>] ::ffff:127.0.0.1 - - GET / 200
+[Thu, 14 May 2020 18:25:10 GMT] [info] [<0.000.0>] ::ffff:127.0.0.1 - - GET / 200
+[Thu, 14 May 2020 18:25:15 GMT] [info] [<0.000.0>] ::ffff:127.0.0.1 - - GET /users/ 404
+[Thu, 14 May 2020 18:25:38 GMT] [info] [<0.000.0>] ::ffff:127.0.0.1 - - GET / 304
+[Thu, 14 May 2020 18:28:55 GMT] [info] [<0.000.0>] ::1 - - OPTIONS /users/ 404
+[Thu, 14 May 2020 20:30:51 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Thu, 14 May 2020 20:30:51 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Thu, 14 May 2020 20:30:51 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
